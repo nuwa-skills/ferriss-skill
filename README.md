@@ -5,9 +5,9 @@
 > "一周工作80小时不是勤奋，是缺乏想象力。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以蒂姆·费里斯的视角回应你 -- 生活黑客与系统化最优解**
+**让 AI 以蒂姆·费里斯的视角回应你 -- 生活黑客与系统化最优解**
 
 </div>
 
